@@ -1,8 +1,6 @@
 # 🤖 Lexino AI  
 ### A Futuristic 3D AI Website with a Unique Interactive Interface
 
-![Lexino AI Preview](https://codewithrony1.github.io/Lexino-AI/)
-
 ---
 
 ## 🚀 About Lexino AI
@@ -36,6 +34,10 @@ This project is designed for:
   Easy to extend with new AI models and features.
 
 ---
+
+## 🖼 Website Preview
+
+<a href="https://codewithrony1.github.io/Lexino-AI/">Lexino AI Live Preview</a>
 
 ## 🛠 Tech Stack
 
