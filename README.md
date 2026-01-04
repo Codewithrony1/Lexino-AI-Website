@@ -39,15 +39,6 @@ This project is designed for:
 
 <a href="https://codewithrony1.github.io/Lexino-AI/">Lexino AI Live Preview</a>
 
-## 🛠 Tech Stack
-
-- **Frontend:** React / Next.js  
-- **3D Engine:** Three.js / Babylon.js  
-- **AI Integration:** OpenAI / Custom AI APIs  
-- **Rendering:** WebGL  
-- **Styling:** Tailwind CSS / Custom CSS  
-- **Deployment:** Vercel / Netlify
-
 ---
 
 ## 📦 Installation
