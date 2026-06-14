@@ -37,7 +37,7 @@ This project is designed for:
 
 ## 🖼 Website Preview
 
-<a href="https://codewithrony1.github.io/Lexino-AI/">Lexino AI Live Preview</a>
+<a href="https://codewithrony1.github.io/Lexino-AI-Website/">Lexino AI Live Preview</a>
 
 ---
 
